@@ -104,7 +104,7 @@ Deve retornar a versão 8.0 ou superior.
 1. **Clone o repositório:**
 
 ```cmd
-git clone https://github.com/seu-usuario/C-Sharp-Fundamentals.git
+git clone https://github.com/gjoliveira9634/C-Sharp-Fundamentals
 cd C-Sharp-Fundamentals
 ```
 
